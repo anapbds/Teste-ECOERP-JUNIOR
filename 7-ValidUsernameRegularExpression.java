@@ -1,10 +1,6 @@
 import java.util.Scanner;
 class UsernameValidator {
     
-    // [a-zA-Z][a-zA-Z0-9_]{7,29}
-    // \\w | '_' {7,29}
-    String username = 
-    
     public static final String regularExpression = "^[a-zA-Z][a-zA-Z0-9_]{7,29}$";
 }
 
